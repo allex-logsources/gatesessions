@@ -1,0 +1,25 @@
+{
+  "name": "allex_gatesessionslogsource",
+  "version": "1.0.0",
+  "description": "AllexJS LogSource from AllexJS Gate session lifecycle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-logsources/gatesessions.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "gate",
+    "sessions",
+    "logsource"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-logsources/gatesessions/issues"
+  },
+  "homepage": "https://github.com/allex-logsources/gatesessions#readme"
+}
